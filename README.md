@@ -1,4 +1,4 @@
-# Deep-Learning-Seminar-Series1
+# Deep-Learning-Seminar-Series
 Graduate Student
 
 Research: Deep Learning in Image Processing
